@@ -1,0 +1,22 @@
+{
+  "name": "async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XdiegoX1407/async-js.git"
+  },
+  "author": "diego",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XdiegoX1407/async-js/issues"
+  },
+  "homepage": "https://github.com/XdiegoX1407/async-js#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
